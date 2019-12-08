@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575824216632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2592242096",
+    "id" : "164C693A",
+    "lastKnownWriteTime" : 1571419926,
+    "last_content_update" : 1571419926,
+    "path" : "~/Documents/Complete Projects/SOEN_7481_Course_Project/R_Project_Mixed Modeling And Others/CloneDetection_MixModel/CalcClonedMean_Variance.R",
+    "project_path" : "CalcClonedMean_Variance.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

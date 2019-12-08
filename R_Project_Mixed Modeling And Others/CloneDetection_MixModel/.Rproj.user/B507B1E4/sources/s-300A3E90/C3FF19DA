@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575824220428.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C3FF19DA",
+    "lastKnownWriteTime" : 1575824119,
+    "last_content_update" : 1575824119,
+    "path" : "~/Documents/Complete Projects/SOEN_7481_Course_Project/R_Project_Mixed Modeling And Others/CloneDetection_MixModel/Mean_VarianceCalculation.R",
+    "project_path" : "Mean_VarianceCalculation.R",
+    "properties" : {
+        "cursorPosition" : "234,62",
+        "scrollLine" : "229",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575824226557.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF124C15",
+    "lastKnownWriteTime" : 1575824182,
+    "last_content_update" : 1575824182,
+    "path" : "~/Documents/Complete Projects/SOEN_7481_Course_Project/R_Project_Mixed Modeling And Others/CloneDetection_MixModel/CalcMean_MeadianOfUsersVotes.R",
+    "project_path" : "CalcMean_MeadianOfUsersVotes.R",
+    "properties" : {
+        "cursorPosition" : "94,28",
+        "scrollLine" : "75",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

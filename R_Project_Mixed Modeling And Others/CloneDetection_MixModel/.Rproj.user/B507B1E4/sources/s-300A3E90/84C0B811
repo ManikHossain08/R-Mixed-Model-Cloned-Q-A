@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575824224301.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "84C0B811",
+    "lastKnownWriteTime" : 1575823966,
+    "last_content_update" : 1575823966,
+    "path" : "~/Documents/Complete Projects/SOEN_7481_Course_Project/R_Project_Mixed Modeling And Others/CloneDetection_MixModel/Questions_Mix-Model.R",
+    "project_path" : "Questions_Mix-Model.R",
+    "properties" : {
+        "cursorPosition" : "31,70",
+        "scrollLine" : "25"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
